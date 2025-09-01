@@ -22,7 +22,7 @@ Kurssilla ei ole tenttiä, vaan suoritus perustuu kokonaan tehtäviin.
 
 **Miten kurssin tehtävien ratkaisut tulee tehdä?**
 
-Sinun tulee tehdä itse kurssin tehtävien ratkaisut. Et saa palauttaa esimerkiksi kaverin tekemää tai tekoälyn tuottamaa ratkaisua.
+Sinun tulee ratkaista kurssin tehtävät itsenäisesti. Tehtävien yhteydessä on tarkempia ohjeita siitä, miten voit käyttää tekoälyä apuna.
 
 **Milloin suoritukset kirjataan?**
 

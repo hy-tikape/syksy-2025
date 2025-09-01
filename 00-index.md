@@ -11,7 +11,7 @@ Syksyllä 2025 kurssi järjestetään samalla tavalla Helsingin yliopiston tutki
 
 [Kysymyksiä ja vastauksia](kysymykset)
 
-Kurssin ohjaus järjestetään [Discordissa](https://study.cs.helsinki.fi/discord/join/tikape), jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. Lisäksi järjestetään pajaohjausta, jonka aikataulu ilmoitetaan myöhemmin.
+Kurssin ohjausta on tarjolla [Discordissa](https://study.cs.helsinki.fi/discord/join/tikape), jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 tiistaisin klo 12–16, keskiviikkoisin klo 14–18 sekä torstaisin klo 12–16.
 
 ## Tehtävät ja arvostelu
 
