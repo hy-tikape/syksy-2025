@@ -7,13 +7,11 @@ permalink: /tehtavat/
 
 Kurssi suoritetaan ratkomalla tehtäviä. Kaikki tehtävät tulee ratkaista itsenäisesti kurssin materiaalin ja muiden lähteiden avulla.
 
-Kaikissa tehtävissä voit lähettää vastauksia uudestaan ilman rajoituksia eikä yritysten määrä vaikuta pisteisiin.
-
 Kaikkien kurssin tehtävien deadline on su 26.10.2025 klo 23:59.
 
 ## SQL-tehtävät
 
-Kurssin SQL-tehtävät suoritetaan [SQL Trainer](https://sqltrainer.fi/syksy-2025/) -järjestelmässä, jossa on 100 tehtävää SQL-kielen harjoitteluun. Saat yhden kurssipisteen jokaisesta tehtävästä.
+Kurssin SQL-tehtävät suoritetaan [SQL Trainer](https://sqltrainer.fi/syksy-2025/) -järjestelmässä, jossa on 100 tehtävää SQL-kielen harjoitteluun. Saat yhden kurssipisteen jokaisesta tehtävästä. Voit lähettää vastauksia uudestaan ilman rajoituksia eikä yritysten määrä vaikuta pisteisiin.
 
 **Huomaa, että syksyn 2025 kurssilla on käytössä SQL Trainerin uusi versio, joka on eri osoitteessa kuin vanha versio!**
 
