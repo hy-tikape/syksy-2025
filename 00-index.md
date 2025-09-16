@@ -15,7 +15,7 @@ Kurssin ohjausta on tarjolla [Discordissa](https://study.cs.helsinki.fi/discord/
 
 ## Tehtävät ja arvostelu
 
-Kurssin suoritus muodostuu kahdesta tehtäväpaketista (SQL-tehtävät ja muut tehtävät). Molemmissa tehtäväpaketeissa maksimipistemäärä on 100, ja kurssin hyväksytty suoritus vaatii vähintään 60 pistettä kummastakin tehtäväpaketista.
+Kurssin suoritus muodostuu kahdesta tehtäväpaketista (SQL-tehtävät ja projektitehtävät). Molemmissa tehtäväpaketeissa maksimipistemäärä on 100, ja kurssin hyväksytty suoritus vaatii vähintään 60 pistettä kummastakin tehtäväpaketista.
 
 Arvosanarajat ovat:
 
