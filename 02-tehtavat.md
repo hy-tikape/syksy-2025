@@ -21,14 +21,10 @@ Tehtävät 1–20 liittyvät materiaalin lukuun 2, tehtävät 21–40 liittyvät
 
 Sinun tulee ratkaista SQL-tehtävät itsenäisesti. Et saa laatia tai korjata vastauksia tekoälyn avulla.
 
-## Muut tehtävät
+## Projektitehtävät
 
-Muut tehtävät julkaistaan syyskuun puoliväliin mennessä.
+Kurssin projektitehtävät ovat saatavilla kurssin [tehtävärepositoriossa](https://github.com/hy-tikape/tehtavat/blob/main/README.md).
 
-<!--
-Kurssin muut tehtävät palautetaan [Tasks](https://tasks.withmooc.fi/tikape-kesa-2025)-järjestelmään. Näet jokaisessa tehtävässä, montako pistettä saat tehtävästä.
+Sinun tulee ratkaista tehtävät itsenäisesti, mutta saat käyttää haluamallasi tavalla nettilähteitä ja tekoälytyökaluja, kunhan raportoit, mitä olet tehnyt.
 
-Kun lähetät vastauksen, saat automaattisesti pisteet tehtävästä. Kurssin henkilökunta käy läpi tehtävät kurssin jälkeen, mutta pisteesi eivät muutu, ellet ole tahallisesti kiertänyt automaattista tarkastusta.
-
-Viimeisessä tehtävässä on ohjeet, miten voit ilmoittautua kurssille, tarkastaa kurssin pistetilanteen sekä antaa kurssipalautteen.
--->
+Viimeisessä tehtävässä on ohjeet, miten voit ilmoittautua kurssille sekä antaa kurssipalautteen.
